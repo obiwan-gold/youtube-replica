@@ -1,0 +1,25 @@
+{
+  "name": "youtube-replica",
+  "version": "1.0.0",
+  "description": "Applying Bootcamp principles and tools to a Youtube Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obiwan-gold/youtube-replica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obiwan-gold/youtube-replica/issues"
+  },
+  "homepage": "https://github.com/obiwan-gold/youtube-replica#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.25.6",
+    "sqlite3": "^5.1.2"
+  }
+}
