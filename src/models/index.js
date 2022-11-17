@@ -1,6 +1,5 @@
-const { Video } = require('./Show')
+const { Video } = require('./Video');
 
-module.exports = { Video }
-const { Video } = require('./Show')
 
-module.exports = { Video }
+
+module.exports = { Video };
