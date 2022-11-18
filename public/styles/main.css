@@ -1,12 +1,8 @@
 .video-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  /* grid-template-columns: repeat(3, 1fr); */
-
   column-gap: 20px;
   row-gap: 60px;
-
-  /* grid-template-columns: repeat(auto-fit, minmax(250px, auto)); */
 }
 
 /* @media (max-width: 750px) {
@@ -36,7 +32,7 @@
 } */
 
 .video-preview {
-  max-width: 300px;
+  /* width: 400px; */
 }
 
 .thumbnail-container {

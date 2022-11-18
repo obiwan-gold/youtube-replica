@@ -3,7 +3,7 @@
     {
       "thumbnail": "https://i.ytimg.com/vi/4oJHqSwg5-c/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBZ7udsvg-7JneBmHik9CAAIvT5aw",
       "duration": "5:44",
-      "author-picture": "https://yt3.ggpht.com/ytc/AMLnZu_aEYWSCOLXU15Z-PIsChyYJfAawvQJQAhfxYqz=s68-c-k-c0x00ffffff-no-rj",
+      "authorPicture": "https://yt3.ggpht.com/ytc/AMLnZu_aEYWSCOLXU15Z-PIsChyYJfAawvQJQAhfxYqz=s68-c-k-c0x00ffffff-no-rj",
       "title": "Getting Hacked By Your Sister | Mr Robot",
       "author": "Mr Robot",
       "stats": "21K Views &#183; 7 days ago"
@@ -13,13 +13,13 @@
       "duration": "1:02:41",
       "title": "analog_mannequin - milk cassette x.mp3 (1 hour loop)",
       "author": "dreamscape",
-      "author-picture": "https://yt3.ggpht.com/ytc/AMLnZu_LQlae0ADe02UizTjny2-vClMA611p-V_9SLQg=s68-c-k-c0x00ffffff-no-rj",
+      "authorPicture": "https://yt3.ggpht.com/ytc/AMLnZu_LQlae0ADe02UizTjny2-vClMA611p-V_9SLQg=s68-c-k-c0x00ffffff-no-rj",
       "stats": "550K views &#183; 5 months ago"
     },
     {
       "thumbnail": "./assets/thumbnails/thumbnail-3.webp",
       "duration": "9:13",
-      "author-picture": "./assets/avatars/channel-3.jpeg",
+      "authorPicture": "./assets/avatars/channel-3.jpeg",
       "title": "Crazy Tik Toks Taken Moments Before DISASTER",
       "author": "SSSniperWolf",
       "stats": "12M views &#183; 1 year ago"
@@ -27,7 +27,7 @@
     {
       "thumbnail": "./assets/thumbnails/thumbnail-1.webp",
       "duration": "14:20",
-      "author-picture": "./assets/avatars/channel-1.jpeg",
+      "authorPicture": "./assets/avatars/channel-1.jpeg",
       "title": "Talking Tech and AI with Google CEO Sundar Pichai!",
       "author": "Marques Brownlee",
       "stats": "3.4M views &#183; 6 months ago"
@@ -35,7 +35,7 @@
     {
       "thumbnail": "./assets/thumbnails/thumbnail-2.webp",
       "duration": "8:22",
-      "author-picture": "./assets/avatars/channel-2.jpeg",
+      "authorPicture": "./assets/avatars/channel-2.jpeg",
       "title": "Try Not To Laugh Challenge #9",
       "author": "Markiplier",
       "stats": "19M views &#183; 4 years ago"
@@ -43,7 +43,7 @@
     {
       "thumbnail": "./assets/thumbnails/thumbnail-4.webp",
       "duration": "22:04",
-      "author-picture": "./assets/avatars/channel-4.jpeg",
+      "authorPicture": "./assets/avatars/channel-4.jpeg",
       "title": " The Simplest Math Problem No One Can Solve - Collatz Conjecture",
       "author": "Veritasium",
       "stats": "18M views &#183; 4 months ago"
@@ -51,7 +51,7 @@
     {
       "thumbnail": "./assets/thumbnails/thumbnail-5.webp",
       "duration": "11:47",
-      "author-picture": "./assets/avatars/channel-5.jpeg",
+      "authorPicture": "./assets/avatars/channel-5.jpeg",
       "title": "Kadane's Algorithm to Maximum Sum Subarray Problem",
       "author": "CS Dojo",
       "stats": "519K views &#183; 5 years ago"
@@ -59,7 +59,7 @@
     {
       "thumbnail": "./assets/thumbnails/thumbnail-6.webp",
       "duration": "19:59",
-      "author-picture": "./assets/avatars/channel-6.jpeg",
+      "authorPicture": "./assets/avatars/channel-6.jpeg",
       "title": "Anything You Can Fit In The Circle I’ll Pay Fort",
       "author": "MrBeast",
       "stats": "141M views &#183; 1 year ago"
@@ -69,7 +69,7 @@
       "duration": "1:02:41",
       "title": "analog_mannequin - milk cassette x.mp3 (1 hour loop)",
       "author": "dreamscape",
-      "author-picture": "https://yt3.ggpht.com/ytc/AMLnZu_LQlae0ADe02UizTjny2-vClMA611p-V_9SLQg=s68-c-k-c0x00ffffff-no-rj",
+      "authorPicture": "https://yt3.ggpht.com/ytc/AMLnZu_LQlae0ADe02UizTjny2-vClMA611p-V_9SLQg=s68-c-k-c0x00ffffff-no-rj",
       "stats": "550K views &#183; 5 months ago"
     },
     {
@@ -77,7 +77,7 @@
       "duration": "1:02:41",
       "title": "analog_mannequin - milk cassette x.mp3 (1 hour loop)",
       "author": "dreamscape",
-      "author-picture": "https://yt3.ggpht.com/ytc/AMLnZu_LQlae0ADe02UizTjny2-vClMA611p-V_9SLQg=s68-c-k-c0x00ffffff-no-rj",
+      "authorPicture": "https://yt3.ggpht.com/ytc/AMLnZu_LQlae0ADe02UizTjny2-vClMA611p-V_9SLQg=s68-c-k-c0x00ffffff-no-rj",
       "stats": "550K views &#183; 5 months ago"
     }
   ]
