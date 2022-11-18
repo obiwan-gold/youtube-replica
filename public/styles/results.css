@@ -1,0 +1,49 @@
+@import "general.css";
+
+.result-grid {
+  margin: 0 auto;
+  width: 80vw;
+  /* display: flex; */
+  gap: 25px;
+}
+
+.result-preview {
+  gap: 50px;
+
+}
+
+.result-thumbnail-container {
+  margin-bottom: 12px;
+  position: relative;
+  width: 250px;
+}
+
+.result-thumbnail {
+  border-radius: 18px;
+}
+
+.result-time {
+  position: absolute;
+  bottom: 8px;
+  right: 5px;
+  background-color: var(--time-stamp);
+  border-radius: 2px;
+  padding: 4px;
+  font-size: var(--fs-300);
+  font-weight: var(--fw-bold);
+  color: white;
+}
+
+
+.result-info-grid {
+  grid-template-columns: 50px 1fr;
+}
+
+.result-info>p {
+  margin-bottom: 12px;
+}
+
+.result-info p:not(:first-child) {
+  display: inline-block;
+  margin-right: var(--size-300)
+}

@@ -1,3 +1,4 @@
+@import "general.css";
 /* #search-bar {} */
 
 header {
@@ -11,6 +12,11 @@ header {
   background-color: white;
   border-bottom: 1px solid rgb(238, 238, 238);
   z-index: 42;
+}
+
+form {
+  display: flex;
+  flex: 1;
 }
 
 .left-section {
@@ -114,8 +120,6 @@ header {
 .search-icon {
   height: 25px;
 }
-
-.voice-search-button,
 
 .voice-search-button {
   height: 40px;
