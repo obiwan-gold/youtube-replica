@@ -47,9 +47,13 @@ function createVideoPreview(videos) {
 
 const searchBar = document.getElementById('search-bar')
 const searchButton = document.getElementById('search-button')
+const resultGrid = document.createElement('section');
+resultGrid.classList.add('result-grid', 'flex-column-center')
 
 searchButton.addEventListener('click', async (e) => {
   e.preventDefault();
+  videoGrid.innerHTML = "";
+  resultGrid.innerHTML = "";
   //   console.log('click')
   // Click Button
   // Redirect to function OR redirect to link?
@@ -76,11 +80,6 @@ searchButton.addEventListener('click', async (e) => {
 const main = document.querySelector('main')
 
 async function resultsPage(results) {
-  videoGrid.innerHTML = "";
-  const resultGrid = document.createElement('section');
-  resultGrid.classList.add('result-grid', 'flex-column-center')
-  resultGrid.innerHTML = "";
-
   results.forEach(result => {
     const { thumbnail, duration, authorPicture, title, author, stats } = result
 
@@ -96,14 +95,14 @@ async function resultsPage(results) {
          <img class="profile-picture" src="${(authorPicture != "N/A") ? authorPicture : "image_not_found.png"}">
        </div>
        <div class="result-info">
-         <p class="result-title | fw-semi-bold fs-700">
+         <p class="result-title | fw-semi-bold fs-500">
            ${title}
-         </p>
-         <p class="result-author">
-           ${author}
          </p>
          <p class="result-stats">
            ${stats}
+         </p>
+         <p class="result-author">
+           ${author}
          </p>
        </div>
      </div>

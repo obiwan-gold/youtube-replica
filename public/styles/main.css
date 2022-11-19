@@ -4,9 +4,12 @@
   grid-template-columns: repeat(auto-fill, minmax(250px, auto));
   column-gap: 20px;
   row-gap: 60px;
+  margin-left: 98px;
 }
 
-
+.video-preview:hover {
+  animation-delay: 3s;
+}
 
 /* Element-specific */
 

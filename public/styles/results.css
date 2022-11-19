@@ -1,9 +1,10 @@
 @import "general.css";
 
 .result-grid {
-  margin: 0 auto;
-  width: 80vw;
+  margin-right: 60px;
+  /* width: 80vw; */
   /* display: flex; */
+  justify-content: center;
   gap: 25px;
 }
 
@@ -15,7 +16,7 @@
 .result-thumbnail-container {
   margin-bottom: 12px;
   position: relative;
-  width: 250px;
+  width: 360px;
 }
 
 .result-thumbnail {
@@ -43,7 +44,7 @@
   margin-bottom: 12px;
 }
 
-.result-info p:not(:first-child) {
+/* .result-info p:not(:first-child) {
   display: inline-block;
   margin-right: var(--size-300)
-}
+} */
